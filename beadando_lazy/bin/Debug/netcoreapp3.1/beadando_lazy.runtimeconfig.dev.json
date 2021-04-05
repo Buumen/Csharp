@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zita\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zita\\.nuget\\packages"
+    ]
+  }
+}

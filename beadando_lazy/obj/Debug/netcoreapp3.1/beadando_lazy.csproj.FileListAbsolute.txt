@@ -1,0 +1,26 @@
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.exe
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.deps.json
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.runtimeconfig.json
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.runtimeconfig.dev.json
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.dll
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.pdb
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.csprojAssemblyReference.cache
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.AssemblyInfoInputs.cache
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.AssemblyInfo.cs
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.csproj.CoreCompileInputs.cache
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.dll
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.pdb
+C:\Users\jgabo\source\repos\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.genruntimeconfig.cache
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.exe
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.deps.json
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.runtimeconfig.json
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.runtimeconfig.dev.json
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.dll
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\bin\Debug\netcoreapp3.1\beadando_lazy.pdb
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.csprojAssemblyReference.cache
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.AssemblyInfoInputs.cache
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.AssemblyInfo.cs
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.csproj.CoreCompileInputs.cache
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.dll
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.pdb
+C:\Users\Zita\Documents\Csabi\Egyéb\6. FÉLÉV\Haladó C# - (GEIAL31N-BL - Smid László - 5 kredit - Gyakorlati jegy)\Beadandó\beadando_lazy\beadando_lazy\obj\Debug\netcoreapp3.1\beadando_lazy.genruntimeconfig.cache
